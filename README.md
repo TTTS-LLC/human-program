@@ -14,4 +14,4 @@ This account is operated via smart contract. And all outbound transactions will 
 
 <h2>Where</h2>
 
-Donations can be sent here: F605FE7F787551EEA808EE9ACDB98897
+Donations can be sent here: **F605FE7F787551EEA808EE9ACDB98897**
